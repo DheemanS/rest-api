@@ -1,6 +1,7 @@
 # rest-api
-Rest Api Node express mongoose JWT 
+Simple node rest-api example in Express Mongoose JTW token
 
-configure .env file
-install packages 
-to run app run "npm start"
+## Running the Application
+1. Configure .env file
+1. Run `npm install` to install app dependencies
+1. Run `npm start`
